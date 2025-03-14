@@ -1,4 +1,4 @@
-# Projeto-Jogo-21
+# Projeto-Bank-Diamond
 
 **Código**: Código rodando.
 ![imagem3](img/codigojava.png)
